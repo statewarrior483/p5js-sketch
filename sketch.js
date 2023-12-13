@@ -75,7 +75,7 @@ function draw() {
   fill(255,0,0);
   fill(255,0,0);
   translate(950/2-180, 600)
-  text("Ms. Labdfrie!",0, 0);
+  text("Ms. Labrie!",0, 0);
   pop()
   
   
